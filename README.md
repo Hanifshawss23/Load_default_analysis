@@ -17,4 +17,4 @@ Based on the exploratory data analysis, three primary levers were identified to 
 ## 🚀 How to Run This Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Hanifshawss23/loan-default-analysis.git
+   git clone https://github.com/Hanifshawss23/load-default-analysis.git
